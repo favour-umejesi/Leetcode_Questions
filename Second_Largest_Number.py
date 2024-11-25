@@ -23,7 +23,7 @@ class solution:
         
         for i in range(n):#find the largest number
             if arr[i] > largest_number:
-				largest_number = arr[i]
+		    largest_number = arr[i]
                 
         
         #tranverse through the list to find the second_largest number
