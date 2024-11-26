@@ -1,5 +1,5 @@
 #Given an array arr[]. Push all the zeros of the given array to the right end of the array while maintaining the order of non-zero elements. Do the mentioned change in the array in place.
-#Input = [40503044]  #Expected_output = [45344000]
+#Input = [4 0 5 0 3 0 4 4]  #Expected_output = [4 5 3 4 4 0 0 0]
 
 #Solution 1 - Naive approach (Transverse through the array 3 times) Time Complexity = O(n), Space_Complexity = O(n)
 class solution:
