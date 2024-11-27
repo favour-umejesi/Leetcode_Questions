@@ -32,7 +32,6 @@ class Solution:
 class Solution:
   def reverseArray(self,arr):
     temp_arr = arr.reverse()
-    
     return arr
 
 
