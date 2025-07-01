@@ -24,4 +24,12 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
