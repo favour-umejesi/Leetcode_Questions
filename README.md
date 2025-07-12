@@ -35,6 +35,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
