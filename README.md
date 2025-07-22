@@ -24,6 +24,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Array
 |  |
 | ------- |
