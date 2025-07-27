@@ -23,6 +23,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Array
@@ -55,4 +56,13 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
