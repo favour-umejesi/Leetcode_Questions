@@ -71,4 +71,20 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
