@@ -26,11 +26,13 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Array
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Simulation
 |  |
 | ------- |
