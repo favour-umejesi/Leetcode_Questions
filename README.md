@@ -30,6 +30,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -49,6 +50,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
