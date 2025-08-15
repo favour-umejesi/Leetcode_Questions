@@ -13,11 +13,11 @@ P - Initialize a new string to build the result incrementally
 class Solution:
     def addSpaces(self, s: str, spaces: List[int]) -> str:
         new_string = ""
-        r = 0
+        previous = 0
 
         for num in spaces:
-            new_string += s[r:num] + " "
-            r = num
+            new_string += s[previous:num] + " "
+            previous = num
 
         new_string += s[num:]
         return new_string
