@@ -32,6 +32,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
@@ -65,6 +66,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
