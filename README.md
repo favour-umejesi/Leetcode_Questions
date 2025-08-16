@@ -23,6 +23,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -33,6 +34,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
@@ -67,6 +69,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
@@ -99,4 +102,8 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0112-path-sum) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
