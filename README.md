@@ -25,6 +25,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | ------- |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -43,6 +44,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2232-adding-spaces-to-a-string) |
 ## Linked List
@@ -58,6 +60,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0283-move-zeroes) |
+| [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2232-adding-spaces-to-a-string) |
 ## Recursion
@@ -106,4 +109,8 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
