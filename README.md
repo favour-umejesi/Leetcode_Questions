@@ -20,6 +20,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1448-maximum-69-number](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1448-maximum-69-number) |
 ## String
 |  |
 | ------- |
@@ -115,4 +116,8 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | ------- |
 | [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
