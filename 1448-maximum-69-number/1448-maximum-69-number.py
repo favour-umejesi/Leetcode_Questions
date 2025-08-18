@@ -8,13 +8,13 @@ class Solution:
             2) Changing the first 6 we encounter to 9, gives us the maximun number
             3) using the join function, convert list to  a string and then to an int, return answer
         """
+        return int(str(num).replace("6", "9", 1))
+        # nums = list(str(num))
 
-        nums = list(str(num))
-
-        for i in range(len(nums)):
-            if nums[i] == "6":
-                nums[i] = "9"
-                break
+        # for i in range(len(nums)):
+        #     if nums[i] == "6":
+        #         nums[i] = "9"
+        #         break
         
-        return int("".join(nums))
+        # return int("".join(nums))
         
