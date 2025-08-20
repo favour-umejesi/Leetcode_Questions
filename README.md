@@ -39,6 +39,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0001-two-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -76,6 +77,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0001-two-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [1904-second-largest-digit-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -86,6 +88,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -111,6 +114,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +124,20 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1448-maximum-69-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
