@@ -5,6 +5,8 @@ class Solution:
         M - Array, HashMap, Bucket-Sort
         P - Create a HashMap, to keep track of the frequency of numbers in the list
         - create list containing buckets, where the index of each bucket is the frequency of a number in the list
+        - Fill the buckets by placing each number corresponding to its frequency
+        - Collect the top k elements by starting from the bucket with the highest frequency.
         
         """
         freq = {}
