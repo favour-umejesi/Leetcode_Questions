@@ -25,6 +25,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -63,6 +64,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
