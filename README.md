@@ -35,6 +35,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1904-second-largest-digit-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Array
 |  |
@@ -104,6 +105,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0003-longest-substring-without-repeating-characters](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Tree
 |  |
 | ------- |
