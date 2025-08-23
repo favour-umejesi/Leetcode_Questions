@@ -4,7 +4,7 @@ class Solution:
         currLen , left, longestLen = 0, 0, 0
         for right in range(len(s)):
             while s[right] in seen:
-                seen.discard(s[left])
+                seen.remove(s[left])
                 left += 1
                 currLen -= 1
             seen.add(s[right])
