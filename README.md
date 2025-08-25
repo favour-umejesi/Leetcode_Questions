@@ -29,6 +29,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -48,6 +49,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0283-move-zeroes](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
@@ -91,6 +93,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [1904-second-largest-digit-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1904-second-largest-digit-in-a-string) |
 ## Queue
@@ -102,6 +105,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -132,6 +136,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 ## Stack
 |  |
 | ------- |
@@ -149,10 +154,12 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -170,4 +177,8 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
