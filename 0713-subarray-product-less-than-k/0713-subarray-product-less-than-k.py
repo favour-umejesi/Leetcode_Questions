@@ -1,18 +1,17 @@
 class Solution:
     def numSubarrayProductLessThanK(self, nums: List[int], k: int) -> int:
         """
-        U - Return the number of contigous subarrays in the array, that can give a product less than K
-        M - Sliding window, Array
-        P - left = product = length = 
-          - for right in nums:
-                product *= nums[right]
-
-        - create an invalid window that would break once the product less than k
-        - if the condition breaks, we divide the current product by the number leaving the window 
-        - product *= nums
+        Understand - Return a number of subarrays that will give a product less than k
+        Match - Array, Sliding Window
+        Plan - Initialize the left and right pointer which starts at index zero, Count, to keep track of subarrays
+             - Variable product to keep track of the total product of the subarrays
+             - we also have to think of a situation of if k is less than or equal to 1, then we return 0
+             - we start by building our window
+             - we set an invalid window of when product is greater than K
+                - where we use floor division to reduce the product and also increment the left pointer to shrink our window
+             - If the condition breaks, we add the length of the subarrays to count
         """
-        left, length = 0, 0
-        product = 1
+        left, product, count = 0, 1, 0
         if k <= 1:
             return 0
 
@@ -22,15 +21,6 @@ class Solution:
             while product >= k:
                 product //= nums[left]
                 left += 1
-            
-            length += right-left+1
 
-        return length
-            
-            
-            
-
-
-            
-
-        
+            count += (right - left + 1)
+        return count
