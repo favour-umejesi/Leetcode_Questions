@@ -48,6 +48,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0283-move-zeroes](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -105,6 +106,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -159,8 +161,13 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
