@@ -47,6 +47,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
@@ -93,6 +94,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
@@ -105,6 +107,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
@@ -137,6 +140,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | ------- |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
@@ -153,6 +157,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
