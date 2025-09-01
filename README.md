@@ -19,6 +19,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1448-maximum-69-number) |
@@ -26,6 +27,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0125-valid-palindrome) |
@@ -91,6 +93,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | ------- |
 | [0001-two-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
