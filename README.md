@@ -56,6 +56,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1677-matrix-diagonal-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1677-matrix-diagonal-sum) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -193,4 +194,8 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
