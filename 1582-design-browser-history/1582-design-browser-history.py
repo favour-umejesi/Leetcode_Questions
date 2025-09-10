@@ -1,14 +1,14 @@
 class BrowserHistory:
     def __init__(self, homepage: str):
-        self.history = []
-        self.main_url = [homepage]
+        self.history = [] #store visited tabs
+        self.main_url = [homepage] #store tabs we are visiting
 
     def visit(self, url: str) -> None:
-        self.main_url.append(url)
-        self.history.clear()
+        self.main_url.append(url) #store tabs we are currently on
+        self.history.clear() #clear history when visiting a new tab
 
     def back(self, steps: int) -> str:
-        while steps and len(self.main_url) > 1:
+        while steps and len(self.main_url) > 1: #checks if the homepage is still intact
             remove = self.main_url.pop()
             self.history.append(remove)
             steps -= 1
