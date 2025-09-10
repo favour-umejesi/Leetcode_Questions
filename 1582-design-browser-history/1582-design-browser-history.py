@@ -1,27 +1,29 @@
+class ListNode:
+    def __init__(self,  val, prev=None, next=None):
+        self.val = val
+        self.next = next
+        self.prev = prev
 class BrowserHistory:
     def __init__(self, homepage: str):
-        self.history = [] #store visited tabs
-        self.main_url = [homepage] #store tabs we are visiting
+        self.cur = ListNode(homepage)
 
     def visit(self, url: str) -> None:
-        self.main_url.append(url) #store tabs we are currently on
-        self.history.clear() #clear history when visiting a new tab
-
+        self.cur.next = ListNode(url, self.cur)
+        self.cur = self.cur.next
+        
     def back(self, steps: int) -> str:
-        while steps and len(self.main_url) > 1: #checks if the homepage is still intact
-            remove = self.main_url.pop()
-            self.history.append(remove)
+        while self.cur.prev and steps > 0:
+            self.cur = self.cur.prev
             steps -= 1
-        return self.main_url[-1]
+
+        return self.cur.val
 
     def forward(self, steps: int) -> str:
-        while steps and self.history:
-            add = self.history.pop()
-            self.main_url.append(add)
+        while self.cur.next and steps > 0:
+            self.cur = self.cur.next
             steps -= 1
-        return self.main_url[-1]
 
-
+        return self.cur.val
         
 
 
