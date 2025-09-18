@@ -20,10 +20,4 @@ class Solution:
         left = self.lowestCommonAncestor(root.left, p, q)
         right = self.lowestCommonAncestor(root.right, p, q)
 
-        if left and right:
-            return root
-
-        if left:
-            return left
-
-        return right
+        return root if left and right else left or right
