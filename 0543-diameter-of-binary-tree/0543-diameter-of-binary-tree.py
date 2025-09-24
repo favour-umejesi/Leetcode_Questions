@@ -9,14 +9,18 @@ class Solution:
         self.diameter = 0
 
         def height(node):
+            #base case, if it is a leaf return 0, recursively backtrack
             if not node:
                 return 0
 
+            #checking for longest left and right subtree
             left = height(node.left)
             right = height(node.right)
 
+            #keep track of longest path passing current node
             self.diameter = max(self.diameter, left+right)
 
+            #height of subtree
             return 1 + max(left, right)
 
         height(root)
