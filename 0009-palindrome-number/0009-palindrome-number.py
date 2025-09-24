@@ -1,9 +1,12 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         num = str(x)
-        rev = num[::-1]
+        rev = list(num)
+        left, right = 0, len(rev)-1
 
-        # x = str(x)
-        # rev = x[::-1]
-        return num == rev
+        while left < right:
+            rev[left], rev[right] = rev[right], rev[left]
+            left += 1
+            right -= 1
+        return "".join(rev) == num
         
