@@ -19,6 +19,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
