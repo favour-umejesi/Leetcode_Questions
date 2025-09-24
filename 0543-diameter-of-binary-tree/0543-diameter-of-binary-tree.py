@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        self.diameter = 0
+        self.diameter = 0 #global variable to store max diameter found
 
         def height(node):
             #base case, if it is a leaf return 0, recursively backtrack
