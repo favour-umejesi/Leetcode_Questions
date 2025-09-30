@@ -11,11 +11,11 @@ class Solution:
 
         while queue:
             length = len(queue)
-            Sum = 0
+            Sum = 0 #setting Sum to zero as we move from level to level
 
             for _ in range(length):
                 node = queue.popleft()
-                Sum += node.val
+                Sum += node.val #as we are dequeuing nodes at a current level, keeping track of its sum
 
                 if node.left:
                     queue.append(node.left)
