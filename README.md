@@ -21,6 +21,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | ------- |
 | [0009-palindrome-number](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1448-maximum-69-number) |
@@ -226,6 +227,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 ## Trie
 |  |
