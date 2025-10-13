@@ -32,6 +32,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0013-roman-to-integer](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
@@ -189,6 +190,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1582-design-browser-history](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1582-design-browser-history) |
