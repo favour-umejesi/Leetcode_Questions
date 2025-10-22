@@ -22,6 +22,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0009-palindrome-number](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1448-maximum-69-number) |
@@ -35,6 +36,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0071-simplify-path](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -68,6 +70,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2232-adding-spaces-to-a-string) |
