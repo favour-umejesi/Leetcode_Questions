@@ -21,6 +21,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | ------- |
 | [0009-palindrome-number](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -96,6 +97,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
