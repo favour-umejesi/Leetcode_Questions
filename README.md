@@ -143,6 +143,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0104-maximum-depth-of-binary-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -157,6 +158,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0104-maximum-depth-of-binary-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -181,6 +183,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0104-maximum-depth-of-binary-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -203,6 +206,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0020-valid-parentheses](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1582-design-browser-history](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1582-design-browser-history) |
