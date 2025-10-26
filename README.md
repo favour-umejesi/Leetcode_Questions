@@ -139,6 +139,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0112-path-sum) |
@@ -154,6 +155,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0112-path-sum) |
@@ -179,6 +181,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0112-path-sum) |
@@ -205,6 +208,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | ------- |
 | [0020-valid-parentheses](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0874-backspace-string-compare) |
