@@ -36,6 +36,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
@@ -112,6 +113,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0141-linked-list-cycle](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
