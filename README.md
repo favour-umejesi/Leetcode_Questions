@@ -61,6 +61,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0283-move-zeroes](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1582-design-browser-history](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1582-design-browser-history) |
@@ -134,6 +135,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
