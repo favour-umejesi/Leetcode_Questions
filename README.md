@@ -53,6 +53,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -90,6 +91,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
