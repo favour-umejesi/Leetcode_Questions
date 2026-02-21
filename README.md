@@ -53,6 +53,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0056-merge-intervals) |
@@ -92,6 +93,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0125-valid-palindrome) |
@@ -229,6 +231,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1448-maximum-69-number) |
 ## Divide and Conquer
 |  |
