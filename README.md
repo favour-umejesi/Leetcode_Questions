@@ -56,6 +56,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0027-remove-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
@@ -92,6 +93,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -208,6 +210,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | ------- |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0628-maximum-product-of-three-numbers) |
