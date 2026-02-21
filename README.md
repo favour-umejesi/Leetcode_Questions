@@ -54,6 +54,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | ------- |
 | [0001-two-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0056-merge-intervals) |
@@ -94,6 +95,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0125-valid-palindrome) |
@@ -210,6 +212,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
