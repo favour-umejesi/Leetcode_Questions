@@ -71,6 +71,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1582-design-browser-history](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1582-design-browser-history) |
 | [1677-matrix-diagonal-sum](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1677-matrix-diagonal-sum) |
+| [1695-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1695-maximum-erasure-value) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2058-concatenation-of-array](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -127,6 +128,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0347-top-k-frequent-elements](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0692-top-k-frequent-words) |
+| [1695-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1695-maximum-erasure-value) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [1904-second-largest-digit-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1904-second-largest-digit-in-a-string) |
 ## Queue
@@ -148,6 +150,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1695-maximum-erasure-value) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Tree
