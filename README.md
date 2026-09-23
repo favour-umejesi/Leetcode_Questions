@@ -44,6 +44,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1904-second-largest-digit-in-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -145,6 +146,7 @@ LeetCode is a platform for preparing for technical interviews by practicing codi
 | [0003-longest-substring-without-repeating-characters](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/favour-umejesi/Leetcode_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
