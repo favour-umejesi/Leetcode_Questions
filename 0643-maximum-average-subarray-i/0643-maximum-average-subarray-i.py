@@ -1,20 +1,23 @@
 class Solution:
-    def findMaxAverage(self, nums: List[int], k: int) -> float:
+    def findMaxAverage(self, nums: list[int], k: int) -> float:
         """
-        maximum average of the numbers equal to k in the array
-        start by building the first window and storing the average of the first k,
+        -first we build the sum of the first k window
+        - find the average
+        - start building the other window from index of the window
+
         """
-        curr = 0
-        max_avg = 0
+        ans = total = avg = 0
 
         for i in range(k):
-            curr += nums[i]
+            total += nums[i]
 
-        max_avg = curr / k
+        avg = total/k
 
         for i in range(k, len(nums)):
-            curr += nums[i] - nums[i-k]
+            total += nums[i] - nums[i-k]
 
-            max_avg = max(max_avg, curr/k)
+            avg = max(avg, total/k)
 
-        return max_avg
+        return avg
+
+        
